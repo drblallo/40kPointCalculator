@@ -1,0 +1,9 @@
+SPACE MARINES   :                           605
+ 1 Adrax Agatone                            100
+ 5 Incursor Squad                            90
+ 5 Infiltrator Squad                         90
+ 1 Captain                                   80
+ 1 Artificer Armour                          10
+ 1 Primaris Ancient                          55
+ 1 Invader ATV                               80
+ 1 Razorback                                100

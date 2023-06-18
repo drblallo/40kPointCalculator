@@ -1,0 +1,7 @@
+NECRONS         :                           745
+ 3 Tomb Blades                               80
+ 1 C’tan Shard of the Nightbringer          255
+ 1 Lord                                      65
+20 Necron Warriors                          240
+ 1 Vargard Obyron                            85
+ 1 Veil of Darkness                          20
